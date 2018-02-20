@@ -36,7 +36,8 @@ print("this is my %d python programe." % num)
 
 ### 如何学好python?<a name="title1" />
 好好学习，天天向上   
-如何换行？在末尾敲三个空格再回车即可。
+
+如何换行？在末尾敲三个空格再敲两个回车即可。
 
 
 
